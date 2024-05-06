@@ -1,6 +1,6 @@
-# task
+# App Gallery
 
-A new Flutter project.
+A new Flutter project that dispaly some gallery and when click in any photo display this information.
 
 ## Getting Started
 
